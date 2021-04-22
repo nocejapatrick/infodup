@@ -1,0 +1,4 @@
+[08-Apr-2021 13:02:58 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home4/zccnjvmy/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17

@@ -1,0 +1,3 @@
+PROCESSED on Tue, 01 Sep 2020 15:13:31 +0000
+/wp-content/plugins/wpforms-lite/assets/css/wpforms-full.css
+PROCESSED from https://www.informatics.edu.ph/programs/bachelors-degree-programs/?mcp_token=eyJwaWQiOjExNDUyNzMwNTI1MTI5MCwic2lkIjowLCJheCI6IjMwZGZmMzMwYWY3YmY0OWU3MDU5ODhjZTg1NGM2OGQ1IiwidHMiOjE1OTg5NzMyMDgsImV4cCI6MTYwMTM5MjQwOH0.9w7lbsKZe2ec0WMrufO3MQ4QUayqrdM002jbvOC9fGk

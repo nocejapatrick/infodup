@@ -1,0 +1,8 @@
+[30-Mar-2021 14:06:21 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception' not found in /home4/zccnjvmy/public_html/wp-includes/Requests/Exception/Transport.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/Requests/Exception/Transport.php on line 3
+[03-Apr-2021 01:01:28 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception' not found in /home4/zccnjvmy/public_html/wp-includes/Requests/Exception/HTTP.php:13
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/Requests/Exception/HTTP.php on line 13

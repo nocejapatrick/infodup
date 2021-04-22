@@ -1,0 +1,8 @@
+[06-Apr-2021 23:04:44 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Requests_Hooker' not found in /home4/zccnjvmy/public_html/wp-includes/Requests/Hooks.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/Requests/Hooks.php on line 15
+[18-Apr-2021 15:21:56 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Requests_Hooker' not found in /home4/zccnjvmy/public_html/wp-includes/Requests/Hooks.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/Requests/Hooks.php on line 15

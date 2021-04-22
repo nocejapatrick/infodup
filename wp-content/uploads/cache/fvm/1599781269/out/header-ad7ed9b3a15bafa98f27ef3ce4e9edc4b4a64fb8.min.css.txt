@@ -1,0 +1,18 @@
+PROCESSED on Fri, 11 Sep 2020 01:23:37 +0000
+/wp-includes/css/dist/block-library/style.min.css
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css
+/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-public.css
+/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-gdpr.css
+/wp-content/plugins/woo-custom-product-addons/assets/css/frontend.min.css
+/wp-content/themes/informatics-template/assets/css/open-iconic-bootstrap.css
+/wp-content/themes/informatics-template/assets/css/bootstrap.css
+/wp-content/themes/informatics-template/style.css
+/wp-content/themes/informatics-template/woocommerce.css
+/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+/wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+/wp-content/plugins/elementor/assets/css/frontend.min.css
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
+/wp-content/uploads/elementor/css/global.css
+/wp-content/uploads/elementor/css/post-370.css
+/wp-content/plugins/jetpack/css/jetpack.css
+PROCESSED from https://www.informatics.edu.ph/programs/bachelors-degree-programs/bachelor-of-science-in-entrepreneurship/

@@ -1,0 +1,16 @@
+[17-Apr-2021 13:40:38 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home4/zccnjvmy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 17
+[18-Apr-2021 12:33:28 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home4/zccnjvmy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php on line 17
+[18-Apr-2021 17:23:57 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home4/zccnjvmy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php on line 17
+[18-Apr-2021 17:28:12 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home4/zccnjvmy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php on line 17

@@ -1,0 +1,8 @@
+[05-Apr-2021 10:56:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[06-Apr-2021 15:43:18 America/Boise] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4

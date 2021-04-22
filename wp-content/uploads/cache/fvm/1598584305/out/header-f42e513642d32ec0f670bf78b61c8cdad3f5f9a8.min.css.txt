@@ -1,0 +1,14 @@
+PROCESSED on Fri, 28 Aug 2020 03:51:38 +0000
+/wp-includes/css/dist/block-library/style.min.css
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css
+/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-public.css
+/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-gdpr.css
+/wp-content/plugins/woo-custom-product-addons/assets/css/frontend.min.css
+/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.css
+/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.css
+/wp-content/themes/informatics-template/assets/css/open-iconic-bootstrap.css
+/wp-content/themes/informatics-template/assets/css/bootstrap.css
+/wp-content/themes/informatics-template/style.css
+/wp-content/themes/informatics-template/woocommerce.css
+/wp-content/plugins/jetpack/css/jetpack.css
+PROCESSED from https://www.informatics.edu.ph/product/python-programmer/

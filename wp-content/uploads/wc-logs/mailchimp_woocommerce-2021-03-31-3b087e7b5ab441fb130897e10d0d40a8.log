@@ -1,0 +1,13 @@
+2021-03-31T07:56:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 457
+2021-03-31T07:57:45+00:00 NOTICE member.sync :: Subscribed Member khianamores1@gmail.com :: Array
+(
+    [status_if_new] => 1
+    [merge_fields] => Array
+        (
+        )
+
+)
+
+2021-03-31T07:58:56+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 42a2bfa134e2c7e116b5f74013d22d19
+2021-03-31T07:59:34+00:00 NOTICE abandoned_cart.success :: email: khianamores1@gmail.com :: checkout_url: https://informatics.edu.ph/checkout/?mc_cart_id=42a2bfa134e2c7e116b5f74013d22d19
+2021-03-31T07:59:34+00:00 NOTICE cart.member.updated :: Updated khianamores1@gmail.com subscriber status to subscribed and language to en

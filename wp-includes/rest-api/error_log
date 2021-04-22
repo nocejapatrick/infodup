@@ -1,0 +1,4 @@
+[01-Apr-2021 23:06:15 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home4/zccnjvmy/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17

@@ -1,0 +1,4 @@
+[02-Apr-2021 21:30:09 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home4/zccnjvmy/public_html/wp-includes/Requests/Response/Headers.php:13
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/Requests/Response/Headers.php on line 13

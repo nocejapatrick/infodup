@@ -1,0 +1,14 @@
+2021-03-22T06:51:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 8a57f244a3b8b8dfbad89f6c74e3a62b
+2021-03-22T06:51:11+00:00 NOTICE abandoned_cart.success :: email: wackz.a@gmail.com :: checkout_url: https://informatics.edu.ph/checkout/?mc_cart_id=8a57f244a3b8b8dfbad89f6c74e3a62b
+2021-03-22T06:51:12+00:00 NOTICE cart.member.updated :: Updated wackz.a@gmail.com subscriber status to transactional and language to en
+2021-03-22T06:51:51+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 455
+2021-03-22T06:52:25+00:00 NOTICE member.sync :: Updated Member wackz.a@gmail.com :: Array
+(
+    [previous_status] => transactional
+    [status] => 1
+    [merge_fields] => Array
+        (
+        )
+
+)
+

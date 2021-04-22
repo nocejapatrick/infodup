@@ -1,0 +1,64 @@
+[22-Mar-2021 08:16:11 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home4/zccnjvmy/public_html/wp-includes/block-patterns/three-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/block-patterns/three-buttons.php on line 9
+[22-Mar-2021 12:11:49 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home4/zccnjvmy/public_html/wp-includes/block-patterns/heading-paragraph.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/block-patterns/heading-paragraph.php on line 9
+[24-Mar-2021 22:40:13 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home4/zccnjvmy/public_html/wp-includes/block-patterns/text-two-columns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/block-patterns/text-two-columns.php on line 9
+[25-Mar-2021 03:09:20 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home4/zccnjvmy/public_html/wp-includes/block-patterns/heading-paragraph.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/block-patterns/heading-paragraph.php on line 9
+[25-Mar-2021 10:50:24 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home4/zccnjvmy/public_html/wp-includes/block-patterns/two-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/block-patterns/two-buttons.php on line 9
+[27-Mar-2021 06:15:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home4/zccnjvmy/public_html/wp-includes/block-patterns/two-images.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/block-patterns/two-images.php on line 9
+[27-Mar-2021 07:24:23 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home4/zccnjvmy/public_html/wp-includes/block-patterns/text-two-columns-with-images.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/block-patterns/text-two-columns-with-images.php on line 9
+[28-Mar-2021 06:24:07 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home4/zccnjvmy/public_html/wp-includes/block-patterns/two-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/block-patterns/two-buttons.php on line 9
+[28-Mar-2021 17:53:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home4/zccnjvmy/public_html/wp-includes/block-patterns/large-header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/block-patterns/large-header.php on line 9
+[30-Mar-2021 19:34:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home4/zccnjvmy/public_html/wp-includes/block-patterns/text-three-columns-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/block-patterns/text-three-columns-buttons.php on line 9
+[02-Apr-2021 19:49:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home4/zccnjvmy/public_html/wp-includes/block-patterns/heading-paragraph.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/block-patterns/heading-paragraph.php on line 9
+[03-Apr-2021 23:35:44 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home4/zccnjvmy/public_html/wp-includes/block-patterns/text-two-columns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/block-patterns/text-two-columns.php on line 9
+[06-Apr-2021 01:29:23 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home4/zccnjvmy/public_html/wp-includes/block-patterns/quote.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/block-patterns/quote.php on line 9
+[17-Apr-2021 17:43:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home4/zccnjvmy/public_html/wp-includes/block-patterns/two-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/block-patterns/two-buttons.php on line 9
+[18-Apr-2021 07:58:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home4/zccnjvmy/public_html/wp-includes/block-patterns/two-images.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/block-patterns/two-images.php on line 9
+[18-Apr-2021 10:22:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home4/zccnjvmy/public_html/wp-includes/block-patterns/quote.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/block-patterns/quote.php on line 9

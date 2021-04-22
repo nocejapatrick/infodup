@@ -1,0 +1,44 @@
+[08-Apr-2021 08:18:19 America/Boise] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[08-Apr-2021 12:09:34 America/Boise] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[08-Apr-2021 12:30:29 America/Boise] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[08-Apr-2021 13:37:31 America/Boise] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[17-Apr-2021 09:33:34 America/Boise] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[18-Apr-2021 00:42:16 America/Boise] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[18-Apr-2021 05:37:04 America/Boise] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[18-Apr-2021 15:07:55 America/Boise] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[18-Apr-2021 16:12:03 America/Boise] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[18-Apr-2021 17:36:26 America/Boise] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[18-Apr-2021 22:11:54 America/Boise] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12

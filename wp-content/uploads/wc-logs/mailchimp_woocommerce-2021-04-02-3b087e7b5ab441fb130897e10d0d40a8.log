@@ -1,0 +1,26 @@
+2021-04-02T07:17:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 2eac9041c71e41a5b6fc27963028193b
+2021-04-02T07:17:41+00:00 NOTICE abandoned_cart.success :: email: nina.mangio@gmail.com :: checkout_url: https://informatics.edu.ph/checkout/?mc_cart_id=2eac9041c71e41a5b6fc27963028193b
+2021-04-02T07:17:42+00:00 NOTICE cart.member.updated :: Updated nina.mangio@gmail.com subscriber status to transactional and language to en
+2021-04-02T07:18:16+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 2eac9041c71e41a5b6fc27963028193b
+2021-04-02T07:19:14+00:00 NOTICE abandoned_cart.success :: email: nina.mangio@gmail.com :: checkout_url: https://informatics.edu.ph/checkout/?mc_cart_id=2eac9041c71e41a5b6fc27963028193b
+2021-04-02T07:21:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 2eac9041c71e41a5b6fc27963028193b
+2021-04-02T07:21:21+00:00 ERROR abandoned_cart.error :: email: nina.mangio@gmail.com :: attempting product update :: A product with the provided variant ID does not exist in the account for this list.
+2021-04-02T07:21:21+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 2eac9041c71e41a5b6fc27963028193b
+2021-04-02T07:21:21+00:00 ERROR abandoned_cart.error :: Error Code 400 :: A product with the provided variant ID does not exist in the account for this list. on 1894 in /home4/zccnjvmy/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2021-04-02T07:21:22+00:00 ERROR abandoned_cart.error :: email: nina.mangio@gmail.com :: attempting product update :: A product with the provided variant ID does not exist in the account for this list.
+2021-04-02T07:21:23+00:00 ERROR abandoned_cart.error :: Error Code 400 :: A product with the provided variant ID does not exist in the account for this list. on 1894 in /home4/zccnjvmy/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2021-04-02T07:22:57+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 4504
+2021-04-02T07:25:13+00:00 NOTICE order_sumbit :: #4504 has a financial status of pending and was skipped.
+2021-04-02T07:27:48+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 4504
+2021-04-02T07:27:50+00:00 NOTICE debug :: Order ID 4504 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://informatics.edu.ph/programs/short-courses-ict/
+        )
+
+)
+
+2021-04-02T07:29:45+00:00 ERROR order_submit.error :: addStoreOrder :: #4504 :: Error Code 400 :: A product with the provided variant ID does not exist in the account for this list. on 1894 in /home4/zccnjvmy/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php

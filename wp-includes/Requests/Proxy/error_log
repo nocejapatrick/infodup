@@ -1,0 +1,4 @@
+[05-Apr-2021 00:06:09 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Requests_Proxy' not found in /home4/zccnjvmy/public_html/wp-includes/Requests/Proxy/HTTP.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/Requests/Proxy/HTTP.php on line 19

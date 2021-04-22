@@ -1,0 +1,12 @@
+[02-Feb-2021 16:16:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home4/zccnjvmy/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-content/plugins/hello.php on line 69
+[13-Feb-2021 00:01:02 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home4/zccnjvmy/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-content/plugins/hello.php on line 69
+[13-Feb-2021 00:01:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home4/zccnjvmy/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-content/plugins/hello.php on line 69

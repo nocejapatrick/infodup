@@ -1,0 +1,3 @@
+PROCESSED on Fri, 11 Sep 2020 10:21:09 +0000
+/wp-content/plugins/login-recaptcha/css/style.css
+PROCESSED from https://www.informatics.edu.ph/my-account/

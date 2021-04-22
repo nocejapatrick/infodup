@@ -1,0 +1,92 @@
+[22-Mar-2021 16:49:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/theme-compat/header.php on line 9
+[23-Mar-2021 04:28:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home4/zccnjvmy/public_html/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/theme-compat/footer-embed.php on line 18
+[23-Mar-2021 04:51:18 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/theme-compat/comments.php on line 9
+[23-Mar-2021 19:16:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/theme-compat/header.php on line 9
+[23-Mar-2021 19:51:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/theme-compat/footer.php on line 9
+[24-Mar-2021 02:04:15 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/theme-compat/sidebar.php on line 9
+[24-Mar-2021 23:39:15 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home4/zccnjvmy/public_html/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/theme-compat/header-embed.php on line 19
+[25-Mar-2021 06:58:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home4/zccnjvmy/public_html/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/theme-compat/embed-content.php on line 13
+[25-Mar-2021 09:11:16 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home4/zccnjvmy/public_html/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/theme-compat/embed-404.php on line 14
+[28-Mar-2021 14:25:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/zccnjvmy/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/theme-compat/embed.php on line 13
+[31-Mar-2021 05:05:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/theme-compat/header.php on line 9
+[01-Apr-2021 04:41:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home4/zccnjvmy/public_html/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/theme-compat/footer-embed.php on line 18
+[01-Apr-2021 13:17:35 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/zccnjvmy/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/theme-compat/embed.php on line 13
+[01-Apr-2021 20:39:13 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/theme-compat/comments.php on line 9
+[02-Apr-2021 05:13:44 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home4/zccnjvmy/public_html/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/theme-compat/embed-content.php on line 13
+[02-Apr-2021 08:23:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/theme-compat/footer.php on line 9
+[02-Apr-2021 20:13:13 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home4/zccnjvmy/public_html/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/theme-compat/embed-404.php on line 14
+[04-Apr-2021 22:09:35 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home4/zccnjvmy/public_html/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/theme-compat/embed-404.php on line 14
+[06-Apr-2021 06:41:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/theme-compat/sidebar.php on line 9
+[06-Apr-2021 07:46:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home4/zccnjvmy/public_html/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/theme-compat/footer-embed.php on line 18
+[08-Apr-2021 04:21:28 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/zccnjvmy/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/theme-compat/embed.php on line 13
+[18-Apr-2021 17:58:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/zccnjvmy/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/theme-compat/embed.php on line 13
+[18-Apr-2021 22:20:02 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home4/zccnjvmy/public_html/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/theme-compat/embed-404.php on line 14

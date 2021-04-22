@@ -1,0 +1,17 @@
+PROCESSED on Mon, 24 Aug 2020 15:52:38 +0000
+/wp-includes/css/dist/block-library/style.min.css
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css
+/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-public.css
+/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-gdpr.css
+/wp-content/plugins/woo-custom-product-addons/assets/css/frontend.min.css
+/wp-content/themes/informatics-template/assets/css/open-iconic-bootstrap.css
+/wp-content/themes/informatics-template/assets/css/bootstrap.css
+/wp-content/themes/informatics-template/style.css
+/wp-content/themes/informatics-template/woocommerce.css
+/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+/wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+/wp-content/plugins/elementor/assets/css/frontend.min.css
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
+/wp-content/uploads/elementor/css/global.css
+/wp-content/plugins/jetpack/css/jetpack.css
+PROCESSED from https://www.informatics.edu.ph/branches/?mcp_token=eyJwaWQiOjExNDUyNzMwNTI1MTI5MCwic2lkIjozNTQ3MjkxNTI1MjkxNTk2LCJheCI6IjlhMDEzZGRhOWM1N2EyYWJmZmY4NjRlNjAxMTBlMWJkIiwidHMiOjE1OTgyODQzNTYsImV4cCI6MTYwMDcwMzU1Nn0.6u9xBhOnrQsF9bK_kntv4_ol5pgNeHZ1seZiNDIXzfU

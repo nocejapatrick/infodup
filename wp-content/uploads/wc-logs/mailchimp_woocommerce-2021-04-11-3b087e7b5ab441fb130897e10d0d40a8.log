@@ -1,0 +1,21 @@
+2021-04-11T14:31:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 460
+2021-04-11T14:31:22+00:00 NOTICE member.sync :: Subscribed Member mira09301996@gmail.com :: Array
+(
+    [status_if_new] => 1
+    [merge_fields] => Array
+        (
+        )
+
+)
+
+2021-04-11T14:33:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 460
+2021-04-11T14:34:51+00:00 NOTICE member.sync :: Updated Member mira09301996@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Mirabeth
+            [LNAME] => Monteo
+        )
+
+)
+

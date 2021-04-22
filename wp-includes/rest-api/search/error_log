@@ -1,0 +1,8 @@
+[17-Apr-2021 19:28:11 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home4/zccnjvmy/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[18-Apr-2021 18:23:57 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home4/zccnjvmy/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17

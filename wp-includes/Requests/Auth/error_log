@@ -1,0 +1,5 @@
+[02-Apr-2021 19:53:45 America/Boise] PHP Fatal error:  Interface 'Requests_Auth' not found in /home4/zccnjvmy/public_html/wp-includes/Requests/Auth/Basic.php on line 18
+[06-Apr-2021 07:42:17 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Requests_Auth' not found in /home4/zccnjvmy/public_html/wp-includes/Requests/Auth/Basic.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/Requests/Auth/Basic.php on line 18

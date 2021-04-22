@@ -1,0 +1,22 @@
+2021-04-07T06:21:35+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id af705835aa6165c9357e13b6a011329e
+2021-04-07T06:21:35+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id af705835aa6165c9357e13b6a011329e
+2021-04-07T06:21:37+00:00 NOTICE abandoned_cart.success :: email: andrew.c@speakeasygroup.com.au :: checkout_url: https://informatics.edu.ph/checkout/?mc_cart_id=af705835aa6165c9357e13b6a011329e
+2021-04-07T06:21:37+00:00 NOTICE cart.member.updated :: Updated andrew.c@speakeasygroup.com.au subscriber status to transactional and language to en
+2021-04-07T06:21:39+00:00 NOTICE abandoned_cart.success :: email: andrew.c@speakeasygroup.com.au :: checkout_url: https://informatics.edu.ph/checkout/?mc_cart_id=af705835aa6165c9357e13b6a011329e
+2021-04-07T06:21:39+00:00 ERROR action_scheduler.process_job.fail :: Job MailChimp_WooCommerce_Cart_Update not found at iEb__mailchimp_jobs database table :: obj_id af705835aa6165c9357e13b6a011329e
+2021-04-07T06:21:39+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 38a45cb74c862bc1b0c7b13a50280648
+2021-04-07T06:21:39+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 38a45cb74c862bc1b0c7b13a50280648
+2021-04-07T06:21:45+00:00 NOTICE abandoned_cart.success :: email: terrydiannefernandez@gmail.com :: checkout_url: https://informatics.edu.ph/checkout/?mc_cart_id=38a45cb74c862bc1b0c7b13a50280648
+2021-04-07T06:21:45+00:00 NOTICE cart.member.updated :: Updated terrydiannefernandez@gmail.com subscriber status to transactional and language to en
+2021-04-07T06:21:46+00:00 NOTICE abandoned_cart.success :: email: terrydiannefernandez@gmail.com :: checkout_url: https://informatics.edu.ph/checkout/?mc_cart_id=38a45cb74c862bc1b0c7b13a50280648
+2021-04-07T06:21:46+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 459
+2021-04-07T06:21:51+00:00 NOTICE member.sync :: Updated Member terrydiannefernandez@gmail.com :: Array
+(
+    [previous_status] => transactional
+    [status] => 1
+    [merge_fields] => Array
+        (
+        )
+
+)
+

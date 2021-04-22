@@ -1,0 +1,24 @@
+[30-Mar-2021 18:44:57 America/Boise] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home4/zccnjvmy/public_html/wp-includes/SimplePie/Cache/Memcached.php on line 58
+[31-Mar-2021 15:27:47 America/Boise] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home4/zccnjvmy/public_html/wp-includes/SimplePie/Cache/DB.php on line 50
+[31-Mar-2021 23:17:26 America/Boise] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home4/zccnjvmy/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 57
+[01-Apr-2021 15:46:49 America/Boise] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home4/zccnjvmy/public_html/wp-includes/SimplePie/Cache/File.php on line 50
+[01-Apr-2021 18:33:57 America/Boise] PHP Fatal error:  Uncaught Error: Class 'SimplePie_Cache_DB' not found in /home4/zccnjvmy/public_html/wp-includes/SimplePie/Cache/MySQL.php:56
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 56
+[06-Apr-2021 04:23:11 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home4/zccnjvmy/public_html/wp-includes/SimplePie/Cache/Memcached.php:58
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/SimplePie/Cache/Memcached.php on line 58
+[08-Apr-2021 06:16:59 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home4/zccnjvmy/public_html/wp-includes/SimplePie/Cache/File.php:50
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/SimplePie/Cache/File.php on line 50
+[08-Apr-2021 13:31:01 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home4/zccnjvmy/public_html/wp-includes/SimplePie/Cache/DB.php:50
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/SimplePie/Cache/DB.php on line 50
+[17-Apr-2021 21:09:08 America/Boise] PHP Fatal error:  Uncaught Error: Class 'SimplePie_Cache_DB' not found in /home4/zccnjvmy/public_html/wp-includes/SimplePie/Cache/MySQL.php:56
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 56

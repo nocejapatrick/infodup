@@ -1,0 +1,112 @@
+[27-Mar-2021 03:00:54 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[27-Mar-2021 03:58:49 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-text.php on line 17
+[27-Mar-2021 04:31:02 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[27-Mar-2021 08:42:41 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[27-Mar-2021 12:50:39 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[28-Mar-2021 01:39:01 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[30-Mar-2021 09:12:57 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[31-Mar-2021 08:56:20 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[01-Apr-2021 00:57:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-search.php on line 17
+[01-Apr-2021 21:30:00 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[02-Apr-2021 17:29:51 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[02-Apr-2021 18:27:04 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[02-Apr-2021 20:56:18 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[03-Apr-2021 17:14:49 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-media.php on line 17
+[04-Apr-2021 00:25:37 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[04-Apr-2021 11:13:28 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-text.php on line 17
+[05-Apr-2021 02:45:32 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[05-Apr-2021 08:36:45 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[05-Apr-2021 09:40:03 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[05-Apr-2021 21:00:49 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[07-Apr-2021 22:38:10 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[08-Apr-2021 11:40:06 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[08-Apr-2021 15:27:37 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[17-Apr-2021 14:14:29 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[17-Apr-2021 15:37:32 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[18-Apr-2021 10:31:14 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[18-Apr-2021 11:53:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[18-Apr-2021 18:36:05 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/widgets/class-wp-widget-media.php on line 17

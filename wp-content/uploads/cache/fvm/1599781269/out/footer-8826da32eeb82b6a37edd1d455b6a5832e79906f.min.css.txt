@@ -1,0 +1,3 @@
+PROCESSED on Thu, 10 Sep 2020 23:42:41 +0000
+/wp-content/plugins/wpforms-lite/assets/css/wpforms-full.css
+PROCESSED from https://www.informatics.edu.ph/programs/diploma-courses/?mcp_token=eyJwaWQiOjExNDUyNzMwNTI1MTI5MCwic2lkIjozNDU4ODEzNzA0MjA1MzYwLCJheCI6ImIyNDQ4ZmYxN2M2MzA2NzY3YzVjNzk5M2ZkMDhjMjkxIiwidHMiOjE1OTk3ODEzNTcsImV4cCI6MTYwMjIwMDU1N30.jSXvTKX_2Qk1xA-sxppbOMJgGC2HekFP50tTfxVw9Tw

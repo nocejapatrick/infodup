@@ -1,0 +1,8 @@
+[07-Apr-2021 00:30:28 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Requests_Transport' not found in /home4/zccnjvmy/public_html/wp-includes/Requests/Transport/cURL.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/Requests/Transport/cURL.php on line 15
+[18-Apr-2021 22:14:54 America/Boise] PHP Fatal error:  Uncaught Error: Interface 'Requests_Transport' not found in /home4/zccnjvmy/public_html/wp-includes/Requests/Transport/fsockopen.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/Requests/Transport/fsockopen.php on line 15

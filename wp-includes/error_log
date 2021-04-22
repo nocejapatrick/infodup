@@ -1,0 +1,552 @@
+[20-Jan-2021 03:12:21 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[20-Jan-2021 03:12:21 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[20-Jan-2021 03:12:21 America/Boise] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[20-Jan-2021 03:12:21 America/Boise] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[20-Jan-2021 03:12:21 America/Boise] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[22-Jan-2021 01:36:34 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[22-Jan-2021 01:36:34 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[22-Jan-2021 01:36:34 America/Boise] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[22-Jan-2021 01:36:34 America/Boise] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[22-Jan-2021 01:36:34 America/Boise] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[24-Jan-2021 13:23:22 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[24-Jan-2021 13:23:22 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[24-Jan-2021 13:23:22 America/Boise] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[24-Jan-2021 13:23:22 America/Boise] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[24-Jan-2021 13:23:22 America/Boise] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[08-Feb-2021 07:40:48 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[08-Feb-2021 07:40:48 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[08-Feb-2021 07:40:48 America/Boise] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[08-Feb-2021 07:40:48 America/Boise] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[08-Feb-2021 07:40:48 America/Boise] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[08-Mar-2021 07:01:23 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[08-Mar-2021 07:01:23 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[08-Mar-2021 07:01:23 America/Boise] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[08-Mar-2021 07:01:23 America/Boise] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[08-Mar-2021 07:01:23 America/Boise] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/functions.php on line 8
+[20-Mar-2021 11:06:17 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home4/zccnjvmy/public_html/wp-includes/class.wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class.wp-scripts.php on line 18
+[20-Mar-2021 11:59:11 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-oembed.php on line 12
+[20-Mar-2021 19:49:49 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home4/zccnjvmy/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[20-Mar-2021 23:02:01 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-section.php on line 396
+[20-Mar-2021 23:02:01 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-section.php on line 396
+[20-Mar-2021 23:02:01 America/Boise] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-themes-section.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-section.php on line 396
+[20-Mar-2021 23:02:01 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-themes-section.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-section.php on line 396
+[20-Mar-2021 23:13:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/date.php on line 11
+[21-Mar-2021 02:14:18 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-smtp.php on line 6
+[21-Mar-2021 02:47:51 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home4/zccnjvmy/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/feed-atom-comments.php on line 8
+[21-Mar-2021 04:46:52 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-wp-feed-cache.php on line 11
+[21-Mar-2021 06:06:35 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-http.php on line 11
+[21-Mar-2021 06:06:35 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-http.php on line 11
+[21-Mar-2021 06:06:35 America/Boise] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/class-http.php on line 11
+[21-Mar-2021 06:06:35 America/Boise] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/class-http.php on line 11
+[21-Mar-2021 06:06:35 America/Boise] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/class-http.php on line 11
+[21-Mar-2021 07:50:54 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home4/zccnjvmy/public_html/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/template-loader.php on line 7
+[21-Mar-2021 08:46:42 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/nav-menu-template.php on line 11
+[21-Mar-2021 08:46:42 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/nav-menu-template.php on line 11
+[21-Mar-2021 08:46:42 America/Boise] PHP Warning:  require_once(ABSPATHWPINC/class-walker-nav-menu.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/nav-menu-template.php on line 11
+[21-Mar-2021 08:46:42 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-walker-nav-menu.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/nav-menu-template.php on line 11
+[21-Mar-2021 12:05:59 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home4/zccnjvmy/public_html/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[21-Mar-2021 14:34:12 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home4/zccnjvmy/public_html/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/feed-rss2-comments.php on line 8
+[21-Mar-2021 16:07:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home4/zccnjvmy/public_html/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/feed-rdf.php on line 8
+[21-Mar-2021 20:15:09 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-panel.php on line 394
+[21-Mar-2021 20:15:09 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-panel.php on line 394
+[21-Mar-2021 20:15:09 America/Boise] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-panel.php on line 394
+[21-Mar-2021 20:15:09 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-panel.php on line 394
+[21-Mar-2021 20:25:44 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/script-loader.php on line 20
+[21-Mar-2021 20:25:44 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/script-loader.php on line 20
+[21-Mar-2021 20:25:44 America/Boise] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/script-loader.php on line 20
+[21-Mar-2021 20:25:44 America/Boise] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/script-loader.php on line 20
+[21-Mar-2021 20:25:44 America/Boise] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/script-loader.php on line 20
+[21-Mar-2021 20:59:47 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home4/zccnjvmy/public_html/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[22-Mar-2021 02:11:49 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/wp-diff.php on line 13
+[22-Mar-2021 02:11:49 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/wp-diff.php on line 13
+[22-Mar-2021 02:11:49 America/Boise] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/wp-diff.php on line 13
+[22-Mar-2021 02:11:49 America/Boise] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/wp-diff.php on line 13
+[22-Mar-2021 02:11:49 America/Boise] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Text/Diff.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/wp-diff.php on line 13
+[22-Mar-2021 03:42:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home4/zccnjvmy/public_html/wp-includes/update.php:880
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/update.php on line 880
+[22-Mar-2021 11:31:16 America/Boise] PHP Fatal error:  Uncaught Error: Class 'SimplePie_File' not found in /home4/zccnjvmy/public_html/wp-includes/class-wp-simplepie-file.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-wp-simplepie-file.php on line 20
+[22-Mar-2021 16:13:43 America/Boise] PHP Fatal error:  Uncaught Error: Class 'SimplePie_File' not found in /home4/zccnjvmy/public_html/wp-includes/class-wp-simplepie-file.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-wp-simplepie-file.php on line 20
+[22-Mar-2021 16:38:01 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home4/zccnjvmy/public_html/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[22-Mar-2021 17:48:00 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-control.php on line 701
+[22-Mar-2021 17:48:00 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-control.php on line 701
+[22-Mar-2021 17:48:00 America/Boise] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-color-control.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-control.php on line 701
+[22-Mar-2021 17:48:00 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-color-control.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-control.php on line 701
+[22-Mar-2021 22:47:29 America/Boise] PHP Fatal error:  Uncaught Error: Class 'SimplePie_Sanitize' not found in /home4/zccnjvmy/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 20
+[23-Mar-2021 01:22:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home4/zccnjvmy/public_html/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/feed-rss2.php on line 8
+[23-Mar-2021 02:41:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home4/zccnjvmy/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/block-patterns.php on line 9
+[23-Mar-2021 05:24:52 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-json.php on line 2
+[23-Mar-2021 09:37:51 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/ms-blogs.php on line 11
+[23-Mar-2021 09:37:51 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/ms-blogs.php on line 11
+[23-Mar-2021 09:37:51 America/Boise] PHP Warning:  require_once(ABSPATHWPINC/ms-site.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/ms-blogs.php on line 11
+[23-Mar-2021 09:37:51 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/ms-site.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/ms-blogs.php on line 11
+[23-Mar-2021 16:45:27 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home4/zccnjvmy/public_html/wp-includes/class.wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class.wp-styles.php on line 18
+[24-Mar-2021 07:03:01 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home4/zccnjvmy/public_html/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-walker-category.php on line 17
+[24-Mar-2021 21:28:47 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home4/zccnjvmy/public_html/wp-includes/class.wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class.wp-styles.php on line 18
+[24-Mar-2021 22:56:23 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/cache.php on line 12
+[24-Mar-2021 22:56:23 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/cache.php on line 12
+[24-Mar-2021 22:56:23 America/Boise] PHP Warning:  require_once(ABSPATHWPINC/class-wp-object-cache.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/cache.php on line 12
+[24-Mar-2021 22:56:23 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-object-cache.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/cache.php on line 12
+[25-Mar-2021 01:00:42 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-snoopy.php on line 6
+[25-Mar-2021 01:27:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/spl-autoload-compat.php:14
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/spl-autoload-compat.php on line 14
+[25-Mar-2021 02:36:52 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-setting.php on line 963
+[25-Mar-2021 02:36:52 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-setting.php on line 963
+[25-Mar-2021 02:36:52 America/Boise] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-filter-setting.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-setting.php on line 963
+[25-Mar-2021 02:36:52 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-filter-setting.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-setting.php on line 963
+[25-Mar-2021 04:24:15 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Text_Diff_Renderer' not found in /home4/zccnjvmy/public_html/wp-includes/class-wp-text-diff-renderer-table.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 16
+[25-Mar-2021 08:34:31 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-control.php on line 701
+[25-Mar-2021 08:34:31 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-control.php on line 701
+[25-Mar-2021 08:34:31 America/Boise] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-color-control.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-control.php on line 701
+[25-Mar-2021 08:34:31 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-color-control.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-control.php on line 701
+[25-Mar-2021 09:06:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home4/zccnjvmy/public_html/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/ms-default-filters.php on line 16
+[25-Mar-2021 12:09:13 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/locale.php on line 11
+[26-Mar-2021 08:53:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/embed-template.php on line 11
+[26-Mar-2021 11:28:07 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-setting.php on line 963
+[26-Mar-2021 11:28:07 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-setting.php on line 963
+[26-Mar-2021 11:28:07 America/Boise] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-filter-setting.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-setting.php on line 963
+[26-Mar-2021 11:28:07 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-filter-setting.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-setting.php on line 963
+[26-Mar-2021 12:11:52 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-IXR.php on line 42
+[26-Mar-2021 12:11:52 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-IXR.php on line 42
+[26-Mar-2021 12:11:52 America/Boise] PHP Warning:  require_once(ABSPATHWPINC/IXR/class-IXR-server.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/class-IXR.php on line 42
+[26-Mar-2021 12:11:52 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/IXR/class-IXR-server.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/class-IXR.php on line 42
+[26-Mar-2021 12:19:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home4/zccnjvmy/public_html/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/vars.php on line 23
+[26-Mar-2021 15:42:51 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Text_Diff_Renderer_inline' not found in /home4/zccnjvmy/public_html/wp-includes/class-wp-text-diff-renderer-inline.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 16
+[26-Mar-2021 19:04:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home4/zccnjvmy/public_html/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/feed-atom.php on line 8
+[26-Mar-2021 21:17:30 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home4/zccnjvmy/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[26-Mar-2021 22:08:13 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/script-loader.php on line 20
+[26-Mar-2021 22:08:13 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/script-loader.php on line 20
+[26-Mar-2021 22:08:13 America/Boise] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/script-loader.php on line 20
+[26-Mar-2021 22:08:13 America/Boise] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/script-loader.php on line 20
+[26-Mar-2021 22:08:13 America/Boise] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/script-loader.php on line 20
+[27-Mar-2021 03:45:40 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home4/zccnjvmy/public_html/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[27-Mar-2021 07:08:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-oembed.php on line 12
+[27-Mar-2021 08:20:52 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-section.php on line 396
+[27-Mar-2021 08:20:52 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-section.php on line 396
+[27-Mar-2021 08:20:52 America/Boise] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-themes-section.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-section.php on line 396
+[27-Mar-2021 08:20:52 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-themes-section.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-section.php on line 396
+[27-Mar-2021 18:21:17 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/script-loader.php on line 20
+[27-Mar-2021 18:21:17 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/script-loader.php on line 20
+[27-Mar-2021 18:21:17 America/Boise] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/script-loader.php on line 20
+[27-Mar-2021 18:21:17 America/Boise] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/script-loader.php on line 20
+[27-Mar-2021 18:21:17 America/Boise] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/script-loader.php on line 20
+[27-Mar-2021 18:48:55 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-panel.php on line 394
+[27-Mar-2021 18:48:55 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-panel.php on line 394
+[27-Mar-2021 18:48:55 America/Boise] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-panel.php on line 394
+[27-Mar-2021 18:48:55 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-panel.php on line 394
+[27-Mar-2021 20:09:46 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home4/zccnjvmy/public_html/wp-includes/class.wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class.wp-scripts.php on line 18
+[28-Mar-2021 00:18:09 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home4/zccnjvmy/public_html/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-walker-comment.php on line 17
+[28-Mar-2021 02:45:18 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/locale.php on line 11
+[28-Mar-2021 05:31:13 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/nav-menu-template.php on line 11
+[28-Mar-2021 05:31:13 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/nav-menu-template.php on line 11
+[28-Mar-2021 05:31:13 America/Boise] PHP Warning:  require_once(ABSPATHWPINC/class-walker-nav-menu.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/nav-menu-template.php on line 11
+[28-Mar-2021 05:31:13 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-walker-nav-menu.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/nav-menu-template.php on line 11
+[28-Mar-2021 06:29:16 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home4/zccnjvmy/public_html/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[28-Mar-2021 09:08:37 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/ms-settings.php on line 35
+[28-Mar-2021 09:08:37 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/ms-settings.php on line 35
+[28-Mar-2021 09:08:37 America/Boise] PHP Warning:  require_once(ABSPATHWPINC/class-wp-network.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/ms-settings.php on line 35
+[28-Mar-2021 09:08:37 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-network.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/ms-settings.php on line 35
+[28-Mar-2021 11:52:25 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-simplepie.php on line 5
+[28-Mar-2021 11:52:25 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-simplepie.php on line 5
+[28-Mar-2021 11:52:25 America/Boise] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/class-simplepie.php on line 5
+[28-Mar-2021 11:52:25 America/Boise] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/class-simplepie.php on line 5
+[28-Mar-2021 11:52:25 America/Boise] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/class-simplepie.php on line 5
+[28-Mar-2021 16:58:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/registration.php on line 9
+[30-Mar-2021 16:30:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home4/zccnjvmy/public_html/wp-includes/update.php:880
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/update.php on line 880
+[30-Mar-2021 18:19:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-snoopy.php on line 6
+[30-Mar-2021 18:53:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-feed.php on line 10
+[31-Mar-2021 04:22:17 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home4/zccnjvmy/public_html/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/feed-rss2-comments.php on line 8
+[31-Mar-2021 08:12:13 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home4/zccnjvmy/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[31-Mar-2021 10:38:08 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-control.php on line 701
+[31-Mar-2021 10:38:08 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-control.php on line 701
+[31-Mar-2021 10:38:08 America/Boise] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-color-control.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-control.php on line 701
+[31-Mar-2021 10:38:08 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-color-control.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-control.php on line 701
+[31-Mar-2021 17:33:08 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Text_Diff_Renderer_inline' not found in /home4/zccnjvmy/public_html/wp-includes/class-wp-text-diff-renderer-inline.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 16
+[31-Mar-2021 21:46:15 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home4/zccnjvmy/public_html/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/feed-rdf.php on line 8
+[01-Apr-2021 03:56:35 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home4/zccnjvmy/public_html/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-walker-category.php on line 17
+[01-Apr-2021 10:49:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-smtp.php on line 6
+[01-Apr-2021 13:48:16 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Text_Diff_Renderer' not found in /home4/zccnjvmy/public_html/wp-includes/class-wp-text-diff-renderer-table.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 16
+[01-Apr-2021 23:48:13 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/ms-settings.php on line 35
+[01-Apr-2021 23:48:13 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/ms-settings.php on line 35
+[01-Apr-2021 23:48:13 America/Boise] PHP Warning:  require_once(ABSPATHWPINC/class-wp-network.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/ms-settings.php on line 35
+[01-Apr-2021 23:48:13 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-network.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/ms-settings.php on line 35
+[02-Apr-2021 04:11:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home4/zccnjvmy/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/feed-atom-comments.php on line 8
+[02-Apr-2021 06:42:03 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Session_Tokens' not found in /home4/zccnjvmy/public_html/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[02-Apr-2021 06:47:31 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home4/zccnjvmy/public_html/wp-includes/default-filters.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/default-filters.php on line 17
+[02-Apr-2021 09:05:23 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home4/zccnjvmy/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/feed-rss.php on line 8
+[02-Apr-2021 12:06:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-wp-feed-cache.php on line 11
+[02-Apr-2021 12:21:11 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/spl-autoload-compat.php:14
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/spl-autoload-compat.php on line 14
+[02-Apr-2021 12:46:37 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home4/zccnjvmy/public_html/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/feed-rss2.php on line 8
+[02-Apr-2021 14:21:41 America/Boise] PHP Fatal error:  Uncaught Error: Class 'SimplePie_Sanitize' not found in /home4/zccnjvmy/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 20
+[02-Apr-2021 17:43:53 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/wp-diff.php on line 13
+[02-Apr-2021 17:43:53 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/wp-diff.php on line 13
+[02-Apr-2021 17:43:53 America/Boise] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/wp-diff.php on line 13
+[02-Apr-2021 17:43:53 America/Boise] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/wp-diff.php on line 13
+[02-Apr-2021 17:43:53 America/Boise] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Text/Diff.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/wp-diff.php on line 13
+[02-Apr-2021 18:17:22 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home4/zccnjvmy/public_html/wp-includes/class.wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class.wp-styles.php on line 18
+[02-Apr-2021 18:41:51 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home4/zccnjvmy/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/block-patterns.php on line 9
+[02-Apr-2021 21:39:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/embed-template.php on line 11
+[02-Apr-2021 22:03:43 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-http.php on line 11
+[02-Apr-2021 22:03:43 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-http.php on line 11
+[02-Apr-2021 22:03:43 America/Boise] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/class-http.php on line 11
+[02-Apr-2021 22:03:43 America/Boise] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/class-http.php on line 11
+[02-Apr-2021 22:03:43 America/Boise] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/class-http.php on line 11
+[02-Apr-2021 23:06:25 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/ms-blogs.php on line 11
+[02-Apr-2021 23:06:25 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/ms-blogs.php on line 11
+[02-Apr-2021 23:06:25 America/Boise] PHP Warning:  require_once(ABSPATHWPINC/ms-site.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/ms-blogs.php on line 11
+[02-Apr-2021 23:06:25 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/ms-site.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/ms-blogs.php on line 11
+[03-Apr-2021 15:23:18 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home4/zccnjvmy/public_html/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/feed-atom.php on line 8
+[04-Apr-2021 02:43:22 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/registration-functions.php on line 9
+[04-Apr-2021 03:47:26 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-setting.php on line 963
+[04-Apr-2021 03:47:26 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-setting.php on line 963
+[04-Apr-2021 03:47:26 America/Boise] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-filter-setting.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-setting.php on line 963
+[04-Apr-2021 03:47:26 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-filter-setting.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-setting.php on line 963
+[04-Apr-2021 04:45:54 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home4/zccnjvmy/public_html/wp-includes/class.wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class.wp-scripts.php on line 18
+[04-Apr-2021 05:00:07 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home4/zccnjvmy/public_html/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-walker-page.php on line 17
+[04-Apr-2021 13:57:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home4/zccnjvmy/public_html/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[04-Apr-2021 16:15:41 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home4/zccnjvmy/public_html/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/template-loader.php on line 7
+[04-Apr-2021 16:24:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/date.php on line 11
+[05-Apr-2021 02:33:38 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-panel.php on line 394
+[05-Apr-2021 02:33:38 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-panel.php on line 394
+[05-Apr-2021 02:33:38 America/Boise] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-panel.php on line 394
+[05-Apr-2021 02:33:38 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-panel.php on line 394
+[05-Apr-2021 05:57:44 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/rss.php on line 19
+[05-Apr-2021 09:09:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home4/zccnjvmy/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/block-patterns.php on line 9
+[05-Apr-2021 09:23:42 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home4/zccnjvmy/public_html/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/vars.php on line 23
+[05-Apr-2021 11:30:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/registration.php on line 9
+[05-Apr-2021 11:44:28 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-simplepie.php on line 5
+[05-Apr-2021 11:44:28 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-simplepie.php on line 5
+[05-Apr-2021 11:44:28 America/Boise] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/class-simplepie.php on line 5
+[05-Apr-2021 11:44:28 America/Boise] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/class-simplepie.php on line 5
+[05-Apr-2021 11:44:28 America/Boise] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/class-simplepie.php on line 5
+[05-Apr-2021 13:10:55 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/session.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/session.php on line 9
+[05-Apr-2021 19:07:26 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home4/zccnjvmy/public_html/wp-includes/class.wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class.wp-styles.php on line 18
+[05-Apr-2021 19:12:15 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home4/zccnjvmy/public_html/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[05-Apr-2021 19:17:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home4/zccnjvmy/public_html/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/ms-default-filters.php on line 16
+[05-Apr-2021 22:51:53 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-snoopy.php on line 6
+[05-Apr-2021 22:55:10 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/nav-menu-template.php on line 11
+[05-Apr-2021 22:55:10 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/nav-menu-template.php on line 11
+[05-Apr-2021 22:55:10 America/Boise] PHP Warning:  require_once(ABSPATHWPINC/class-walker-nav-menu.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/nav-menu-template.php on line 11
+[05-Apr-2021 22:55:10 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-walker-nav-menu.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/nav-menu-template.php on line 11
+[06-Apr-2021 01:50:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home4/zccnjvmy/public_html/wp-includes/update.php:880
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/update.php on line 880
+[06-Apr-2021 14:28:22 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home4/zccnjvmy/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/feed-rss.php on line 8
+[06-Apr-2021 16:40:10 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-control.php on line 701
+[06-Apr-2021 16:40:10 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-control.php on line 701
+[06-Apr-2021 16:40:10 America/Boise] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-color-control.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-control.php on line 701
+[06-Apr-2021 16:40:10 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-color-control.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/class-wp-customize-control.php on line 701
+[06-Apr-2021 20:07:06 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/default-widgets.php on line 11
+[06-Apr-2021 20:07:06 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/default-widgets.php on line 11
+[06-Apr-2021 20:07:06 America/Boise] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/default-widgets.php on line 11
+[06-Apr-2021 20:07:06 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/default-widgets.php on line 11
+[07-Apr-2021 06:16:04 America/Boise] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home4/zccnjvmy/public_html/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[08-Apr-2021 00:11:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-json.php on line 2
+[08-Apr-2021 00:27:37 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-smtp.php on line 6
+[08-Apr-2021 03:47:07 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Text_Diff_Renderer_inline' not found in /home4/zccnjvmy/public_html/wp-includes/class-wp-text-diff-renderer-inline.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 16
+[08-Apr-2021 07:11:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home4/zccnjvmy/public_html/wp-includes/default-filters.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/default-filters.php on line 17
+[08-Apr-2021 08:32:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/locale.php on line 11
+[08-Apr-2021 13:40:34 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/script-loader.php on line 20
+[08-Apr-2021 13:40:34 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/script-loader.php on line 20
+[08-Apr-2021 13:40:34 America/Boise] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/script-loader.php on line 20
+[08-Apr-2021 13:40:34 America/Boise] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/script-loader.php on line 20
+[08-Apr-2021 13:40:34 America/Boise] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/script-loader.php on line 20
+[08-Apr-2021 15:31:36 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-http.php on line 11
+[08-Apr-2021 15:31:36 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/class-http.php on line 11
+[08-Apr-2021 15:31:36 America/Boise] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/class-http.php on line 11
+[08-Apr-2021 15:31:36 America/Boise] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/class-http.php on line 11
+[08-Apr-2021 15:31:36 America/Boise] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/class-http.php on line 11
+[08-Apr-2021 16:04:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/embed-template.php on line 11
+[08-Apr-2021 20:51:56 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Requests_Hooks' not found in /home4/zccnjvmy/public_html/wp-includes/class-wp-http-requests-hooks.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-wp-http-requests-hooks.php on line 17
+[17-Apr-2021 16:59:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-wp-feed-cache.php on line 11
+[17-Apr-2021 17:26:07 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/registration.php on line 9
+[17-Apr-2021 21:20:54 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home4/zccnjvmy/public_html/wp-includes/default-filters.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/default-filters.php on line 17
+[18-Apr-2021 01:43:34 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home4/zccnjvmy/public_html/wp-includes/class.wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class.wp-styles.php on line 18
+[18-Apr-2021 08:49:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-snoopy.php on line 6
+[18-Apr-2021 11:45:21 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/date.php on line 11
+[18-Apr-2021 12:31:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/zccnjvmy/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/class-oembed.php on line 12
+[18-Apr-2021 13:37:25 America/Boise] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/nav-menu-template.php on line 11
+[18-Apr-2021 13:37:25 America/Boise] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home4/zccnjvmy/public_html/wp-includes/nav-menu-template.php on line 11
+[18-Apr-2021 13:37:25 America/Boise] PHP Warning:  require_once(ABSPATHWPINC/class-walker-nav-menu.php): failed to open stream: No such file or directory in /home4/zccnjvmy/public_html/wp-includes/nav-menu-template.php on line 11
+[18-Apr-2021 13:37:25 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-walker-nav-menu.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/zccnjvmy/public_html/wp-includes/nav-menu-template.php on line 11
+[18-Apr-2021 16:04:13 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home4/zccnjvmy/public_html/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-includes/feed-rss2.php on line 8

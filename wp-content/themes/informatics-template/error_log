@@ -1,0 +1,8 @@
+[13-Feb-2021 07:02:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/zccnjvmy/public_html/wp-content/themes/informatics-template/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-content/themes/informatics-template/index.php on line 15
+[16-Mar-2021 04:13:28 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/zccnjvmy/public_html/wp-content/themes/informatics-template/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/zccnjvmy/public_html/wp-content/themes/informatics-template/index.php on line 15

@@ -1,0 +1,3 @@
+PROCESSED on Wed, 26 Aug 2020 15:12:32 +0000
+/wp-content/plugins/jetpack/css/jetpack.css
+PROCESSED from https://www.informatics.edu.ph/wp-login.php?redirect_to=https%3A%2F%2Fwww.informatics.edu.ph%2Fwp-admin%2F&reauth=1

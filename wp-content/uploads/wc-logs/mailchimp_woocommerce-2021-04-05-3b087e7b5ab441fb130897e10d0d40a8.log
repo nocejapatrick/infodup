@@ -1,0 +1,8 @@
+2021-04-05T01:59:21+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 4504
+2021-04-05T01:59:23+00:00 NOTICE debug :: Order ID 4504 was processing and is now completed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-04-05T02:01:03+00:00 ERROR order_submit.error :: addStoreOrder :: #4504 :: Error Code 400 :: A product with the provided variant ID does not exist in the account for this list. on 1894 in /home4/zccnjvmy/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
