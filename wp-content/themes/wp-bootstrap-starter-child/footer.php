@@ -10,9 +10,16 @@
  */
 
 ?>
-<?php if(!is_page_template( 'blank-page.php' ) && !is_page_template( 'blank-page-with-container.php' )): ?>
+<?php if(!is_page_template( 'blank-page.php' ) && !is_page_template( 'blank-page-with-container.php' )): 
+	
+	if(is_front_page()){
+        get_template_part('template-parts/custom-footer');
+    }
+	
+	?>
 			<!-- </div>.row
 		</div> .container -->
+		
 	</div><!-- #content -->
     <?php get_template_part( 'footer-widget' ); ?>
 	<footer id="colophon" class="site-footer <?php echo wp_bootstrap_starter_bg_class(); ?>" role="contentinfo">
